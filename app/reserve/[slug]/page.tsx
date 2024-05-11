@@ -1,4 +1,3 @@
-import NavBar from "@/app/components/NavBar";
 import Header from "./components/Header";
 import FormControl from "./components/FormControl";
 
